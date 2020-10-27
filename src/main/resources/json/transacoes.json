@@ -1,0 +1,463 @@
+[
+    {
+    	"idTransacao": 1,
+        "idUsuario": 1000,
+        "descricao":"Abobora e peira",
+        "dataTransacao": "03/01/2019",
+        "ano":2019,
+        "mes":1,
+        "valor": 1300,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 2,
+        "idUsuario": 1000,
+        "descricao":"Peixe e manjeiricão",
+        "dataTransacao": "25/01/2019",
+        "ano":2019,
+        "mes":1,
+        "valor": 783,
+        "duplicated": false
+    }, 
+    {
+        "idTransacao": 3,
+        "idUsuario": 1000,
+        "descricao":"Aboboraaaaaaa e peira",
+        "dataTransacao": "25/02/2019",
+        "ano":2019,
+        "mes":2,
+        "valor": 2070,
+        "duplicated": true
+    },
+    {
+        "idTransacao": 4,
+        "idUsuario": 1000,
+        "descricao":"Aboboraaaaaaa e peira",
+        "dataTransacao": "25/02/2019",
+        "ano":2019,
+        "mes":2,
+        "valor": 2070,
+        "duplicated": true
+    },
+    {
+        "idTransacao": 5,
+        "idUsuario": 1000,
+        "descricao":"Aboboraaaaaaa e peira",
+        "dataTransacao": "25/02/2019",
+        "ano":2019,
+        "mes":2,
+        "valor": 2070,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 6,
+        "idUsuario": 1000,
+        "descricao":"Aboboraaaaaaa e Caqui",
+        "dataTransacao": "25/03/2019",
+        "ano":2019,
+        "mes":3,
+        "valor": 578,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 7,
+        "idUsuario": 1000,
+        "descricao":"Aboboraaaaaaa e Jabuticaba",
+        "dataTransacao": "25/03/2019",
+        "ano":2019,
+        "mes":3,
+        "valor": 674,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 8,
+        "idUsuario": 1000,
+        "descricao":"Aboboraaaaaaaaaaaa",
+        "dataTransacao": "25/03/2019",
+        "ano":2019,
+        "mes":3,
+        "valor": 200,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 9,
+        "idUsuario": 1000,
+        "descricao":"Gasolina do Posto",
+        "dataTransacao": "25/04/2019",
+        "ano":2019,
+        "mes":4,
+        "valor": 495,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 10,
+        "idUsuario": 1000,
+        "descricao":"Mesa para jardim",
+        "dataTransacao": "25/04/2019",
+        "ano":2019,
+        "mes":4,
+        "valor": 702,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 11,
+        "idUsuario": 1001,
+        "descricao":"Chá de maça com alho",
+        "dataTransacao": "25/05/2019",
+        "ano":2019,
+        "mes":5,
+        "valor": 1000,
+        "duplicated": true
+    },
+    {
+        "idTransacao": 12,
+        "idUsuario": 1001,
+        "descricao":"Chá de maça com alho",
+        "dataTransacao": "25/05/2019",
+        "ano":2019,
+        "mes":5,
+        "valor": 1000,
+        "duplicated": false
+    }, 
+    {
+        "idTransacao": 13,
+        "idUsuario": 1001,
+        "descricao":"Aboboraaaaaaa e Melância",
+        "dataTransacao": "25/06/2019",
+        "ano":2019,
+        "mes":6,
+        "valor": 38,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 14,
+        "idUsuario": 1001,
+        "descricao":"Bicicleta a motor",
+        "dataTransacao": "25/06/2019",
+        "ano":2019,
+        "mes":6,
+        "valor": 79,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 15,
+        "idUsuario": 1001,
+        "descricao":"Bicicleta automática",
+        "dataTransacao": "25/07/2019",
+        "ano":2019,
+        "mes":7,
+        "valor": 63,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 16,
+        "idUsuario": 1001,
+        "descricao":"Carro Sedan 0KM",
+        "dataTransacao": "25/07/2019",
+        "ano":2019,
+        "mes":7,
+        "valor": 118,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 17,
+        "idUsuario": 1001,
+        "descricao":"Papel cartolina",
+        "dataTransacao": "25/07/2019",
+        "ano":2019,
+        "mes":7,
+        "valor": 375,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 18,
+        "idUsuario": 1001,
+        "descricao":"Querosene do seu Jorge",
+        "dataTransacao": "25/08/2019",
+        "ano":2019,
+        "mes":8,
+        "valor": 750,
+        "duplicated": true
+    },
+    {
+        "idTransacao": 19,
+        "idUsuario": 1001,
+        "descricao":"Querosene do seu Jorge",
+        "dataTransacao": "25/08/2019",
+        "ano":2019,
+        "mes":8,
+        "valor": 750,
+        "duplicated": true
+    },
+    {
+        "idTransacao": 20,
+        "idUsuario": 1001,
+        "descricao":"Querosene do seu Jorge",
+        "dataTransacao": "25/08/2019",
+        "ano":2019,
+        "mes":8,
+        "valor": 750,
+        "duplicated": true
+    },
+    {
+        "idTransacao": 21,
+        "idUsuario": 1001,
+        "descricao":"Querosene do seu Jorge",
+        "dataTransacao": "25/08/2019",
+        "ano":2019,
+        "mes":8,
+        "valor": 750,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 22,
+        "idUsuario": 1002,
+        "descricao":"Estatua gigante",
+        "dataTransacao": "25/09/2019",
+        "ano":2019,
+        "mes":9,
+        "valor": 314,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 23,
+        "idUsuario": 1002,
+        "descricao":"Jogo de facas Tra",
+        "dataTransacao": "25/09/2019",
+        "ano":2019,
+        "mes":9,
+        "valor": 1170,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 24,
+        "idUsuario": 1002,
+        "descricao":"Copo de vidro",
+        "dataTransacao": "25/10/2019",
+        "ano":2019,
+        "mes":10,
+        "valor": 69,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 25,
+        "idUsuario": 1002,
+        "descricao":"Conchas de decoração",
+        "dataTransacao": "25/10/2019",
+        "ano":2019,
+        "mes":10,
+        "valor": 12,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 26,
+        "idUsuario": 1002,
+        "descricao":"Pedra de Cascalhos",
+        "dataTransacao": "25/10/2019",
+        "ano":2019,
+        "mes":10,
+        "valor": 250,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 27,
+        "idUsuario": 1002,
+        "descricao":"Iphone Pro Ma",
+        "dataTransacao": "25/11/2019",
+        "ano":2019,
+        "mes":11,
+        "valor": 317,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 28,
+        "idUsuario": 1002,
+        "descricao":"Mouse e teclado",
+        "dataTransacao": "25/11/2019",
+        "ano":2019,
+        "mes":11,
+        "valor": 28,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 29,
+        "idUsuario": 1002,
+        "descricao":"Gabinete Cool",
+        "dataTransacao": "25/12/2019",
+        "ano":2019,
+        "mes":12,
+        "valor": 39,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 30,
+        "idUsuario": 1002,
+        "descricao":"Processador AMD",
+        "dataTransacao": "25/01/2020",
+        "ano":2020,
+        "mes":1,
+        "valor": 30,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 31,
+        "idUsuario": 1002,
+        "descricao":"Processador Intel",
+        "dataTransacao": "25/01/2020",
+        "ano":2020,
+        "mes":1,
+        "valor": 97,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 32,
+        "idUsuario": 1002,
+        "descricao":"Alho, Alface e tomato",
+        "dataTransacao": "25/02/2020",
+        "ano":2020,
+        "mes":2,
+        "valor": 65,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 33,
+        "idUsuario": 1003,
+        "descricao":"Pedra de mármore",
+        "dataTransacao": "25/03/2020",
+        "ano":2020,
+        "mes":3,
+        "valor": 5000,
+        "duplicated": true
+    },
+    {
+        "idTransacao": 34,
+        "idUsuario": 1003,
+        "descricao":"Pedra de mármore",
+        "dataTransacao": "25/03/2020",
+        "ano":2020,
+        "mes":3,
+        "valor": 5000,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 35,
+        "idUsuario": 1003,
+        "descricao":"Pedra de granito",
+        "dataTransacao": "25/03/2020",
+        "ano":2020,
+        "mes":3,
+        "valor": 76,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 36,
+        "idUsuario": 1003,
+        "descricao":"Sofá cama solteiro",
+        "dataTransacao": "25/04/2020",
+        "ano":2020,
+        "mes":4,
+        "valor": 21,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 37,
+        "idUsuario": 1003,
+        "descricao":"Aboboraaaa e peira",
+        "dataTransacao": "25/04/2020",
+        "ano":2020,
+        "mes":4,
+        "valor": 91,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 38,
+        "idUsuario": 1003,
+        "descricao":"Grama sintética",
+        "dataTransacao": "25/05/2020",
+        "ano":2020,
+        "mes":5,
+        "valor": 50,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 39,
+        "idUsuario": 1003,
+        "descricao":"Coqueiro 12 metros",
+        "dataTransacao": "25/06/2020",
+        "ano":2020,
+        "mes":6,
+        "valor": 60,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 40,
+        "idUsuario": 1003,
+        "descricao":"Pedregulhos para jardim",
+        "dataTransacao": "25/07/2020",
+        "ano":2020,
+        "mes":7,
+        "valor": 70,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 41,
+        "idUsuario": 1004,
+        "descricao":"Arroz e feijão tropeiro",
+        "dataTransacao": "25/07/2020",
+        "ano":2020,
+        "mes":7,
+        "valor": 350,
+        "duplicated": true
+    },
+    {
+        "idTransacao": 42,
+        "idUsuario": 1004,
+        "descricao":"Arroz e feijão tropeiro",
+        "dataTransacao": "25/07/2020",
+        "ano":2020,
+        "mes":7,
+        "valor": 350,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 43,
+        "idUsuario": 1004,
+        "descricao":"Video game TOP",
+        "dataTransacao": "25/08/2020",
+        "ano":2020,
+        "mes":8,
+        "valor": 45,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 44,
+        "idUsuario": 1004,
+        "descricao":"Roteador 2 antenas",
+        "dataTransacao": "25/08/2020",
+        "ano":2020,
+        "mes":8,
+        "valor": 55,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 45,
+        "idUsuario": 1004,
+        "descricao":"Viagem para praia",
+        "dataTransacao": "25/08/2020",
+        "ano":2020,
+        "mes":8,
+        "valor": 65,
+        "duplicated": false
+    },
+    {
+        "idTransacao": 46,
+        "idUsuario": 1004,
+        "descricao":"Passagem de ônibus",
+        "dataTransacao": "25/09/2020",
+        "ano":2020,
+        "mes":9,
+        "valor": 25,
+        "duplicated": false
+    }
+    
+]
